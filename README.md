@@ -1,8 +1,7 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
-
+The aim of this experiment is to create a Markov Decision Process (MDP) representation and implement it in Python to model the decision-making process in optimize the movement of a warehouse robot .
 ## PROBLEM STATEMENT:
 
 ### Problem Description
