@@ -5,25 +5,31 @@ The aim of this experiment is to create a Markov Decision Process (MDP) represen
 ## PROBLEM STATEMENT:
 
 ### Problem Description
-Write your answer here
+Design an RL agent to optimize the movement of a warehouse robot to efficiently pick up and deliver items while avoiding obstacles, minimizing time, and conserving energy.
 
 ### State Space
-Write your answer here
+![image](https://github.com/user-attachments/assets/5fb06340-6525-459d-99e4-2c5bfcc45332)
+
 
 ### Sample State
-Write your answer here
+![image](https://github.com/user-attachments/assets/dd71157f-1c8f-41e7-a6d4-1cca7eaa01e8)
+
 
 ### Action Space
-Write your answer here
+![image](https://github.com/user-attachments/assets/a0ce5275-4149-4f30-b80f-0a4fe752bb29)
+
 
 ### Sample Action
-Write your answer here
+![image](https://github.com/user-attachments/assets/ef1e1395-da82-4c43-9ad5-764e460e3f57)
+
 
 ### Reward Function
-Write your answer here
+![image](https://github.com/user-attachments/assets/1910d7ea-3695-4a62-a4be-9a27737b4cf9)
+
 
 ### Graphical Representation
-Write your answer here
+![image](https://github.com/user-attachments/assets/3e671914-4b2d-4607-8e28-cf0ed3b41204)
+
 
 ## PYTHON REPRESENTATION:
 ```
