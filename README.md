@@ -76,5 +76,5 @@ mdp={
 
 
 ## RESULT:
-Write your output here
+Thus, The MDP Represntation of reaching a college from home without any traffic is successfully executed.
 
